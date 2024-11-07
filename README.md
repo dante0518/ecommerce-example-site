@@ -14,9 +14,9 @@ This project is an example ecommerce website for electronic products built with 
    git clone https://github.com/dante0518/ecommerce-example-site.git
     ```
 2. Install dependecies:
- ```bash
-   npm install
-  ```
+    ```bash
+    npm install
+     ```
 3. Run
    ```bash
    npm run dev

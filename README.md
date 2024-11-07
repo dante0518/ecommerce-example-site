@@ -21,4 +21,16 @@ This project is an example ecommerce website for electronic products built with 
    ```bash
    npm run dev
    ```
+
+
+# Technologies Used
+**React**: Component-based JavaScript library.
+**Tailwind CSS**: Utility-first CSS framework.
+**Vite**: Development server and build tool for fast React development.
+
+## Contributing
+Feel free to open issues or submit pull requests for improvements or bug fixes.
+
+## License
+This project is licensed under the MIT License.
    
